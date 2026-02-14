@@ -104,23 +104,20 @@ The goal was correctness, structure, and clarity — not visual complexity.
 
 ## Screenshots
 
+### Welcome / Landing page
+![Landing](public/screenshots/landing.webp)
 
-Welcome / landing page
-Authentication page
-To-do list with items
-Add item form
-Edit or delete confirmation modal
-Loading state (optional)
+### Authentication page
+![Authentication](public/screenshots/auth.webp)
 
-Authentication
-    Login page
-    Signup page
-Main App
-    To-do list with items
-    Add item form
-    Edit item modal
-    Delete confirmation modal
-User Settings Page
-    User profile section
-    Color picker
-    Saved color reflected in UI
+### To-Do list
+![To Do List](public/screenshots/list.webp)
+
+### Add Item form
+![Add Item](public/screenshots/add_item.webp)
+
+### Edit modal
+![Edit Item](public/screenshots/edit_item.webp)
+
+### Mobile View / User settings
+![Mobile View](public/screenshots/mobile.webp) 

@@ -1,6 +1,9 @@
 # ToDoApp – Frontend
 
-A React-based frontend for managing personal to-do lists with user authentication, protected routes, and full CRUD functionality.
+ToDoApp is a full-stack web application for managing personal tasks, featuring user authentication, protected routes, and persistent data storage.
+
+Frontend: React  
+Backend: Node.js + Express + MongoDB
 
 Backend repository:
 https://github.com/Anty-Anty/ToDoApp-backend
